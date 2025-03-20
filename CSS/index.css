@@ -171,13 +171,13 @@ section{
     transition: .5s;
 }
 .namebox .namecard #father{
-    background: url('./images/father-pic1.jpg') no-repeat center center/cover;
+    background: url('./../images/father-pic1.jpg') no-repeat center center/cover;
 }
 .namebox .namecard #mother{
-    background: url('./images/mother.jpg') no-repeat center center/cover;
+    background: url('./../images/mother.jpg') no-repeat center center/cover;
 }
 .namebox .namecard #myimage{
-    background: url('/images/myimg.jpg') no-repeat center center/cover;
+    background: url('./../images/myimg.jpg') no-repeat center center/cover;
 }
 .namebox .namecard #Koshal{
     background: url('/images/occasion-pics/kohin.jfif') no-repeat center center/cover;
